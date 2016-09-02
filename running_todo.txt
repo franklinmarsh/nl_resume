@@ -1,0 +1,6 @@
+09/02/16
+
+1. Create a list of "Responsibility-Like" and "Qualification-Like" identifiers.
+2. Nick: Create function that returns the part of speech of the first word in the string.
+3. Franklin: Identify what "Qualifications" and "Responsibilities" are stored under in the html code of most job postings. Is it title? subtitle? header?, etc...
+
