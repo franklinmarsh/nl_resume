@@ -1,0 +1,4 @@
+responsibilities = ['Responsibilities','What You Will Do','Job requirements','In This Role You Will','Principal Job Duties and Responsibilities','Primary Functions','Job Description','The Work']
+
+requirements = ['Requirements','Required experience','Qualifications','We Are Looking For','minimum requirements','Professional Skills', 'Minimum Technical Requirements','What you have','Preferred Qualifications','Position Qualifications','The Requirements']
+
